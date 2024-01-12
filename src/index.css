@@ -1,0 +1,23 @@
+
+
+.top-row {
+  background-color: #fff;
+  padding: 15px;
+}
+
+.logo {
+  width: 80px;
+}
+
+.header-list {
+  margin-left: auto;
+  font-size: 14px;
+}
+
+.bg-light {
+  background: white !important;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
