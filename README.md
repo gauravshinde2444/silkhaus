@@ -1,5 +1,6 @@
+
+### To run do npm install and then npm start.
 # Challenges Faced
-To run do npm install and then npm start.
 The challenges faced while developing was with codesandbox while installing dependencies. CodeSandbox was also not showing correct errors. Code could have been split into more modular components in the Card component as well as in the Product component. Stylesheets could have been modularized. To avoid that developed the solution on local using [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
